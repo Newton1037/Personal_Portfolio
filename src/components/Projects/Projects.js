@@ -22,7 +22,7 @@ function Projects() {
               isBlog={false}
               title="Chit-Chat"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with MERN. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/Newton1037/Chat_App_Minor"
+              ghLink="https://github.com/Newton1037/CHAT-APP-MERN"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
