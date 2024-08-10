@@ -29,6 +29,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={"https://ouch-cdn2.icons8.com/cCh2UttS-1X5ZA2MffN0Xv7SMpNScwcKyDwaEGTXAiQ/rs:fit:511:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzMy/L2UwODJjMWE3LTVm/ZjQtNDdlMC1hOGFi/LWY1NjNkZjM3MWQy/YS5zdmc.png"}
+              isBlog={false}
+              title="Smart Surveillance"
+              description="Developed a sophisticated Smart Surveillance System using React and TensorFlow.js, integrating real- timeobject detection and video recording capabilities. This web application leverages a webcam feed toaccurately identify and highlight humans and other objects, with features designed to enhance usability andsecurity."
+              ghLink="https://github.com/Newton1037/smart-surveillance"
+              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={"https://www.simplilearn.com/ice9/free_resources_article_thumb/Figure_1_Machine_learning.jpg"}
               isBlog={false}
               title="Training-ML-models-on-Subatomic-particle-Collisions-for-accurate-feature-prediction"
@@ -37,6 +48,7 @@ function Projects() {
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
+          
         </Row>
       </Container>
     </Container>
