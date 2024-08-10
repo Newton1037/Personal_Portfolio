@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nitin Kumar </span>
             from <span className="purple"> Noida , India.</span>
             <br />
-            I am currently a Btech 3rd year student at JIIT and an aspiring full stack developer.
+            I am currently a final year Btech student at JIIT and an aspiring full stack developer.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
