@@ -40,10 +40,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={"https://www.simplilearn.com/ice9/free_resources_article_thumb/Figure_1_Machine_learning.jpg"}
+              imgPath={"https://th.bing.com/th/id/OIP.ZIHIDludG3zt69mtrtO84wHaHa?w=2000&h=2000&rs=1&pid=ImgDetMain"}
               isBlog={false}
-              title="Training-ML-models-on-Subatomic-particle-Collisions-for-accurate-feature-prediction"
-              description="We train ML models on electron collision data to predict it's invariant mass . We find the most suitable and efficient ML model to handle large size of experimental data and find the desired result using the machine learning model"
+              title="Diwali Sales Analysis"
+              description="Developed a comprehensive data analysis project focusing on sales distribution by age group and gender using Python and Seaborn. Implemented visualizations to identify key trends, including sales contributions by demographic segments. Enhanced data clarity by adding dynamic labels to bar charts, facilitating more informed business decisions."
               ghLink="https://github.com/Newton1037/Training-ML-models-on-Subatomic-particle-Collisions-for-accurate-feature-prediction"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
