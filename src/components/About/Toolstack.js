@@ -3,7 +3,8 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiMongodb
+  SiMongodb,
+  SiJupyter
 } from "react-icons/si";
 
 function Toolstack() {
@@ -18,6 +19,10 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiMongodb />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJupyter />
+      </Col>
+
     </Row>
   );
 }
